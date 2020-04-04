@@ -1,0 +1,5 @@
+# игнорировать файл test.txt
+test.txt
+
+# игнорировать файл .nojekyll
+.nojekyll
