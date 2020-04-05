@@ -1,5 +1,2 @@
-# игнорировать файл test.txt
-test.txt
-
-# игнорировать файл .nojekyll
-.nojekyll
+# Игнорировать файл logo.svg
+logo.svg
